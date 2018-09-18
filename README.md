@@ -1,7 +1,5 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/frontendbr/brand/f33a3aa9/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
-</p>
-<h1 align="center">Fórum</h1>
+# React Brasil Fórum
+<h2 align="center">Fórum</h2>
 <p align="center">:beer: Portando discussões feitas em grupos para issues.</p>
 
 > **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
@@ -9,24 +7,20 @@
 _____
 
 <p align="center">
-  <a href="https://github.com/frontendbr/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
+  <a href="https://github.com/react-brasil/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
 </p>
 
 _____
 
 ## Propósito
 
-Uma [conversa no Twitter](https://twitter.com/LFeh/status/693111161856921600) foi o gatilho que precisávamos.
-
-<img width="584" alt="screen shot 2017-02-22 at 13 15 25" src="https://cloud.githubusercontent.com/assets/3603793/23220475/e89df29a-f900-11e6-9c91-1247a666162b.png">
+Sentimos a necessidade de manter discussões interessantes com histórico e o github é a plataforma que se mais encaixa.
 
 Alguns posts em grupos de front-end em redes sociais geram debates legais que poderiam ser disponibilizados em local melhor estruturado para tal. A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
 
 A ideia desse repositório é portar ou iniciar essas discussões nas issues. Estando no GitHub, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
 
 O objetivo é unificar todas as discussões em um só local, e o GitHub foi o escolhido para isso.
-
-Em 2017, depois de tantas conquistas (empregos, conhecimento e networking) e elogios (por parte do TechLead do GitHub), nos tornamos a **comunidade oficial do evento InterCon do iMasters**.
 
 ## Vantagens do GitHub
 
@@ -100,7 +94,7 @@ Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema
 
 ### Trechos de código
 
-Para facilitar a visualização de quem vai ler sua issue, coloque seu código no [Codepen](https://codepen.io/) (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
+Para facilitar a visualização de quem vai ler sua issue, coloque seu código no [CodeSandbox](https://codesandbox.io/s/new) (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
 
 ## Código de Conduta
 
@@ -115,15 +109,6 @@ Comporte-se profissionalmente. Os participantes que violarem tais regras serão 
 ## Linguagem
 
 **Todas** as issues devem ser abertas e respondidas em **pt-br**.
-
-## Perguntas frequentes
-
-Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a estudar, nossa sugestão é que você inicie lendo essas issues e logo depois abra uma nova com suas dúvidas:
-
-- [#38](https://github.com/frontendbr/forum/issues/38) Referências sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte.
-- [#270](https://github.com/frontendbr/forum/issues/270) Roadmap sobre por onde ir no JavaScript.
-- [#90](https://github.com/frontendbr/forum/issues/90) Paradigmas de programação com JavaScript.
-- [#229](https://github.com/frontendbr/forum/issues/229) Livros.
 
 ## Como ordenar as issues
 
@@ -152,32 +137,20 @@ Você pode receber atualizações do Fórum no seu email ou via notificações d
 
 ## Extra
 
-No Slack [Frontend Brasil](http://frontendbrasil.slack.com/) tem o canal `#forum` que está integrado com o **GitHub**, desta forma, você sempre saberá quando alguém postou uma nova **issue**.
+No Slack [React Brasil](https://react-brasil.slack.com/) tem o canal `#forum` que está integrado com o **GitHub**, desta forma, você sempre saberá quando alguém postou uma nova **issue**.
 
 **Entre e participe!**
 
 Badge | Link | Participar
 ----- | ---- | ----------
-![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Frontend Brasil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
-
-## Apoiadores e Parceiros
-
-<p align="center">
-  <a href="http://bit.ly/dne-custom-frontendbr"><img src="https://user-images.githubusercontent.com/3299130/43040168-26d560aa-8d13-11e8-9cea-765a07f2b7b0.png" alt="Logo do DevNaEstrada" width="240" /></a>
-</p>
-
+![Participantes](https://react-brasil-slack.herokuapp.com/badge.svg) | [React Brasil](https://react-brasil.slack.com) | [Participar](https://react-brasil-slack.herokuapp.com/)
 
 ## Licença
 
-[MIT](LICENSE) &copy; FrontendBR
+[MIT](LICENSE) &copy; ReactBrasil
 
-## Repositórios da Front-End Brasil
+## Repositórios da React Brasil
 
-- [Fórum](https://github.com/frontendbr/forum)
-- [Eventos](https://github.com/frontendbr/eventos)
-- [Vagas](https://github.com/frontendbr/vagas)
-- [Doe um livro](https://github.com/frontendbr/doe-um-livro)
-- [Poste mais!](https://github.com/frontendbr/poste-mais)
-- [Open Source](https://github.com/frontendbr/open-source)
-- [Front-End Week](https://github.com/frontendbr/frontendweek)
-- [Sugestões](https://github.com/frontendbr/sugestoes)
+- [Fórum](https://github.com/react-brasil/forum)
+- [Eventos](https://github.com/react-brasil/awesome-react-events-br)
+- [Vagas](https://github.com/react-brasil/vagas)
