@@ -3,7 +3,7 @@ Olá! Antes de criar essa issue, algumas dicas:
 ### Pesquise no fórum
 Será que a issue que você vai criar já não foi criada e/ou até respondida?
 
-1. Utilize a função de busca no [topo desse repositório](https://github.com/frontendbr/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) (certifique-se de não estar em um fork)
+1. Utilize a função de busca no [topo desse repositório](https://github.com/react-brasil/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) (certifique-se de não estar em um fork)
 2. Pesquise assuntos próximos, talvez sua dúvida possa ter sido respondida em alguma issue parecida
 
 ### Código de Conduta
